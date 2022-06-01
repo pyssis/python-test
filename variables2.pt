@@ -1,5 +1,0 @@
-x = int(input())
-hours = x // 60
-minutes = x - 60 * hours
-print(hours)
-print(minutes)
